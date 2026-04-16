@@ -31,7 +31,7 @@ Atualmente focado em:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,java,js,git,github" />
+<img src="https://skillicons.dev/icons?i=php,java,js,git,github,mysql" />
 
 </div>
 

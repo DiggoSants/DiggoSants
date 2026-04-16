@@ -37,21 +37,16 @@ Atualmente focado em:
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
 ## 📌 Projetos em destaque
 
-* 🔹 Projeto 1 — Controle Patrimonial (PHP, MYSQL, HTML, CSS e JS)
-* 🔹 Projeto 2 — FITPULSE-API (Laravel/PHP, MYSQL, HTML, CSS, JS e )
+* 🔹 Projeto 1 — Controle Patrimonial
+Sistema para gerenciamento de ativos, com foco em organização, rastreio e controle interno.
+Stack: PHP, MySQL, HTML, CSS, JavaScript.
+
+* 🔹 Projeto 2 — FITPULSE-API
+API voltada para gerenciamento de dados relacionados a fitness.
+Stack: Laravel (PHP), MySQL, Vite, HTML, CSS e JavaScript.
+
 ---
 
 ## 📚 Atualmente estudando
@@ -73,9 +68,5 @@ Atualmente focado em:
 </div>
 
 ---
-
-<div align="center">
-
-⚡ "Construindo consistência todos os dias." ⚡
 
 </div>

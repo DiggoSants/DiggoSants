@@ -1,14 +1,19 @@
 <div align="center">
 
-# 👋 Olá, eu sou Diego Santos
+# 👋 Diego Santos
 
 <p>
-Estudante de TI focado em desenvolvimento e construção de projetos reais.
+Desenvolvedor em formação • Foco em backend • Construindo sistemas reais
 </p>
 
-<img src="https://img.shields.io/badge/Status-Aprendendo-blue" />
-<img src="https://img.shields.io/badge/Foco-Java-orange" />
-<img src="https://img.shields.io/badge/Front--end-JavaScript-yellow" />
+<img src="https://img.shields.io/badge/Status-Em%20evolução-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Foco-Backend-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Stack-Java%20%7C%20PHP-23272F?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=DiggoSants&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DiggoSants&theme=tokyonight&hide_border=true&background=00000000" height="150" />
 
 </div>
 
@@ -16,14 +21,18 @@ Estudante de TI focado em desenvolvimento e construção de projetos reais.
 
 ## 🧠 Sobre mim
 
-Sou estudante do ensino médio integrado com informática, construindo base sólida em desenvolvimento de softwares.
+Estudante de TI (ensino médio integrado), com foco em desenvolvimento de software orientado à prática.
 
-Atualmente focado em:
+Busco domínio de lógica, arquitetura e construção de sistemas completos — do backend à interface.
 
-* Desenvolvimento backend com PHP
-* Lógica de programação e estrutura de dados
-* Desenvolvimento web (HTML, CSS, JavaScript/TypeScript)
-* Desenvolvimento e aperfeiçoamento de Java
+---
+
+## ⚙️ Atuação
+
+- Backend com PHP (Laravel)
+- Estruturas de dados e lógica de programação
+- Desenvolvimento web (HTML, CSS, JavaScript/TypeScript)
+- Evolução em Java (POO + base para aplicações maiores)
 
 ---
 
@@ -31,30 +40,34 @@ Atualmente focado em:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,java,js,git,github,mysql" />
+<img src="https://skillicons.dev/icons?i=php,java,js,ts,git,github,mysql,html,css" />
 
 </div>
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projetos
 
-* 🔹 Projeto 1 — Controle Patrimonial
-Sistema para gerenciamento de ativos, com foco em organização, rastreio e controle interno.
-Stack: PHP, MySQL, HTML, CSS, JavaScript.
+### 🔹 Controle Patrimonial
+Sistema para gestão de ativos com controle de dados, depreciação e organização.
 
-* 🔹 Projeto 2 — FITPULSE-API
-API voltada para gerenciamento de dados relacionados a fitness.
-Stack: Laravel (PHP), MySQL, Vite, HTML, CSS e JavaScript.
+**Stack:** PHP, MySQL, HTML, CSS, JavaScript  
 
 ---
 
-## 📚 Atualmente estudando
+### 🔹 FITPULSE API
+API para gerenciamento de dados fitness, com estrutura backend e integração com frontend.
 
-* PHP (backend)
-* Java (Sistema Mobile)
-* JavaScript / TypeScript (frontend)
-* React (em breve)
+**Stack:** Laravel, MySQL, Vite, HTML, CSS, JavaScript  
+
+---
+
+## 📈 Evolução atual
+
+- Aprofundamento em Laravel (estrutura e boas práticas)
+- Java (POO + organização de projetos)
+- TypeScript no frontend
+- React (próxima etapa)
 
 ---
 
@@ -62,11 +75,12 @@ Stack: Laravel (PHP), MySQL, Vite, HTML, CSS e JavaScript.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/diego-santos-809749331/">LinkedIn</a>
-| <a href="mailto:diegosants.filho@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/diego-santos-809749331/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-</div>
-
----
+<a href="mailto:diegosants.filho@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </div>
